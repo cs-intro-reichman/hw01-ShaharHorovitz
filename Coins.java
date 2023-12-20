@@ -6,6 +6,6 @@ public class Coins{
   int quarters = coins/25;
   //checks how many cents by checking the remainder of division
   int cents = coins % 25;
-  System.out.println("use " + quarters + " quarters and " + cents + " cents");
+  System.out.println("Use " + quarters + " quarters and " + cents + " cents");
   }
   }

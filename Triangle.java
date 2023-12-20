@@ -16,6 +16,6 @@ public class Triangle {
 	isTriangle = (length > c);
 	//prints to screen the length of the triangle and if 3 given integers form a triangle
 	System.out.println(a + " , " + b + " , " + c + " " + isTriangle);
-	}ut your code here	
+	}	
 	}
 }

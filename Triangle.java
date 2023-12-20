@@ -15,7 +15,7 @@ public class Triangle {
 	//checks if the length of two sides is bigger then the length of the remaining side
 	isTriangle = (length > c);
 	//prints to screen the length of the triangle and if 3 given integers form a triangle
-	System.out.println(a + " , " + b + " , " + c + " " + isTriangle);
+	System.out.println(a + ", " + b + ", " + c + ": " + isTriangle);
 	}	
 	}
 

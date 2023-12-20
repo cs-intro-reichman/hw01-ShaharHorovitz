@@ -18,4 +18,4 @@ public class Triangle {
 	System.out.println(a + " , " + b + " , " + c + " " + isTriangle);
 	}	
 	}
-}
+

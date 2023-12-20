@@ -8,6 +8,6 @@ public class AddTwo {
 		int N2 = Integer.parseInt(args[1]);
 		//calculates the sum of two integers
 		int sum = N1 + N2;
-		System.out.println(N1  + "+" + N2 + "= " + sum);	
+		System.out.println(N1  + " + " + N2 + " = " + sum);	
 	}
 }
